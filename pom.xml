@@ -99,13 +99,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name> ICICI bank Releases Nexus Repository</name>
+	      <name> ICICIBank Releases Nexus Repository</name>
 	      <url>http://18.224.68.118:9980/mithuntechnologies/repository/icicibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ICICI bank Snapshot Nexus Repository </name>
+	      <name>ICICIBank Snapshot Nexus Repository </name>
 	      <url>http://18.224.68.118:9980/mithuntechnologies/repository/icicibank-snapshot/</url>
 	    </snapshotRepository>
 	    
