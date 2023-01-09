@@ -106,7 +106,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ICICI bank Snapshot Nexus Repository </name>
-	      <url>http://18.224.68.118:9980/mithuntechnologies/repository/icicibank-snapshot/</url>
+	      <url>http://3.145.65.76:9980/mithuntechnologies/repository/icicibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
