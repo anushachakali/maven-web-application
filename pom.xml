@@ -100,13 +100,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name> ICICI bank Releases Nexus Repository</name>
-	      <url>http://http://18.118.37.74:9980/mithuntechnologies/repository/icicibank-release/</url>
+	      <url>http://13.211.128.89:8081/repository/icicibank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ICICI bank Snapshot Nexus Repository </name>
-	      <url>http://18.118.37.74:9980/mithuntechnologies/repository/icicibank-snapshot/</url>
+	      <url>http://13.211.128.89:8081/repository/icicibank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
